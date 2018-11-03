@@ -2,13 +2,16 @@
 
 How to receive the sony cameras stream directly locally in your computer.
 
-The software creates a rtmp server and shows the streams in the command line, you can consume the stream with any software that supports rtmp connecting to:
+The software creates a rtmp server and shows the streams in the address command line
+
+You can consume the stream with any software that supports rtmp connecting to:
 
 ```
 rtmp://127.0.0.1/<channel_number>/broadcaster/live<live_number>
 ```
 
 **channel_number**: you can find the instructions to find the channel_number below
+
 **live_number**: The application will write this once the camera starts streaming
 
 eg: 
