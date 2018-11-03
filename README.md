@@ -22,6 +22,7 @@ eg:
 # Run the application
 
 ```
+npm i
 sudo node ./index.js --web.channel_number=<channel_number> --dns.external_ip=<external_ip>
 ```
 
