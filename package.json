@@ -1,0 +1,15 @@
+{
+  "name": "sony-cameras-stream-receiver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dns-proxy": "^0.6.2",
+    "node-media-server": "git://github.com/LucaLanziani/Node-Media-Server.git#feature/fdr-x3000-hack"
+  }
+}
