@@ -38,7 +38,7 @@ you'll see the channel number at the end of the url:
 
 eg. https://www.ustream.tv/dashboard/manage-show/12345678
 
-## DNS sproofing
+## DNS spoofing
 
 You need to redirect all request to `api.ustream.tv` to your computer, the module can do the job for you but it needs help.
 
