@@ -59,3 +59,5 @@ The configuration can be persisted creating a `.scsrrc` file in the local direct
     }
 }
 ```
+
+test
